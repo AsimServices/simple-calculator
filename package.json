@@ -1,0 +1,19 @@
+{
+  "name": "aura-calculator",
+  "version": "1.0.0",
+  "description": "A sleek, modern basic calculator web application featuring dark/light mode, calculation history, keyboard shortcuts, and sound effects.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "calculator",
+    "web-app",
+    "html5",
+    "javascript",
+    "responsive-design"
+  ],
+  "author": "Asim Services",
+  "license": "MIT"
+}
